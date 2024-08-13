@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.Couplers;
+
 public class BibliotecaExterna {
     private String titulo;
     private String autor;

@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.OOA;
+
 public class Vehiculo {
     protected String numeroRegistro;
     protected double velocidad;

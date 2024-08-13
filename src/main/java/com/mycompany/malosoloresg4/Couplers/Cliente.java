@@ -1,6 +1,8 @@
+package com.mycompany.malosoloresg4.Couplers;
+
 public class Cliente {
     private String nombre;
-    private Direccion direccion;
+    private final Direccion direccion;
 
     //La clase no contiene comportamientos, solo datos
 

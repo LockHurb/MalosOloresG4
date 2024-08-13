@@ -1,4 +1,5 @@
 //Switch Statement
+package com.mycompany.malosoloresg4.OOA;
 
 public class FabricaDeVehiculos {
     public Vehiculo crearVehiculo(String tipo, String numeroRegistro, double velocidad) {

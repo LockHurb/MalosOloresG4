@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.Couplers;
+
 public class Persona {
     private String nombre;
     private Direccion direccion;

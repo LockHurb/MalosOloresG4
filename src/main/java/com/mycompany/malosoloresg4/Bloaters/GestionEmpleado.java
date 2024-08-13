@@ -7,6 +7,9 @@
  *
  * @author zahid
  */
+
+ package com.mycompany.malosoloresg4.Bloaters;
+
 public class GestionEmpleado {
     private String nombre;
     private String apellido;

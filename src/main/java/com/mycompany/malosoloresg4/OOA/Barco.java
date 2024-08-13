@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.OOA;
+
 public class Barco extends Vehiculo{
     private double profundidad;
 

@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.ChangePreventersDispensables;
+
 public class DescuentoElectronico extends Descuento{
     @Override
     public double aplicarDescuento(Producto producto) {

@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.ChangePreventersDispensables;
+
 public class ProcesadorDeProductos {
 // Este método aplica descuentos a los productos
     public void procesarProductos(Producto producto) {

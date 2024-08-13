@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.OOA;
+
 public class Viaje {
     private String origen;
     private String destino;

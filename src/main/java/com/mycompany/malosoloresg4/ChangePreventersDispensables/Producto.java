@@ -1,3 +1,5 @@
+package com.mycompany.malosoloresg4.ChangePreventersDispensables;
+
 public abstract class Producto {
     public String nombre;
     public double precio;

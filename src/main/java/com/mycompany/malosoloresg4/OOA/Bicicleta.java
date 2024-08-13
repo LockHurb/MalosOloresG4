@@ -7,6 +7,9 @@
  *
  * @author zahid
  */
+
+package com.mycompany.malosoloresg4.OOA;
+
 public class Bicicleta extends Vehiculo{
     private String modelo;
     private int numeroDeMarchas;
