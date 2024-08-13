@@ -5,6 +5,6 @@ public class ProductoElectronico extends Producto{
 
     @Override
     public double calcularPrecioFinal() {
-        return precio; // Podría tener lógica específica para productos electrónicos
+        return precio; 
     }
 }
