@@ -1,0 +1,10 @@
+public class ProductoElectronico extends Producto{
+    public ProductoElectronico(String nombre, double precio) {
+        super(nombre, precio);
+    }
+
+    @Override
+    public double calcularPrecioFinal() {
+        return precio; // Podría tener lógica específica para productos electrónicos
+    }
+}
